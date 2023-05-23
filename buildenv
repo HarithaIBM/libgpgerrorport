@@ -1,5 +1,5 @@
 export ZOPEN_TARBALL_URL="https://gnupg.org/ftp/gcrypt/gpgrt/libgpg-error-1.47.tar.bz2"
-export ZOPEN_TARBALL_DEPS="make bzip2 tar curl perl automake autoconf m4 sed gettext zoslib diffutils"
+export ZOPEN_TARBALL_DEPS="make bzip2 tar curl perl automake autoconf m4 sed gettext zoslib diffutils "
 export ZOPEN_TYPE="TARBALL"
 export ZOPEN_NAME="libgpgerror"
 export ZOPEN_COMP=CLANG
